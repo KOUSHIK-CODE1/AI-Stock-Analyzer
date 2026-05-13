@@ -1,0 +1,2 @@
+initial_capital,final_value,total_return_pct,annualized_return_pct,benchmark_return_pct,sharpe_ratio,max_drawdown_pct,trade_count,winning_trade_count,win_rate_pct
+10000.0,17418.983267178774,74.18983267178774,11.732151457930096,139.96967533956513,0.706208551242069,-22.6337243496041,85.0,17.0,40.476190476190474
