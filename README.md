@@ -1,7 +1,6 @@
 # AI Stock Analyzer
 
-An advanced stock analysis project built from the MACD crossover philosophy in
-[`jmoussa/macd-stock-analyzer`](https://github.com/jmoussa/macd-stock-analyzer).
+An advanced stock analysis project built from the MACD crossover philosophy 
 The original 12/26 EMA MACD calculation, 9-period signal line, `buy`/`sell`
 decision logic, and recent-days mode summary are preserved, then extended with
 technical indicators, machine learning, backtesting, CSV exports, and a
