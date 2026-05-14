@@ -7,7 +7,7 @@ technical indicators, machine learning, backtesting, CSV exports, and a
 Streamlit dashboard.
 
 > This project is for education and research only. It is not financial advice.
-
+ 
 ## Features
 
 - Download OHLCV market data with `yfinance`
